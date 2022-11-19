@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amarsarkar
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 👀 I’m interested in DevOps
 - 💞️ I’m looking to collaborate on any development projects
 - 📫 want to connect mail me amarsarkar9@gmail.com
 
